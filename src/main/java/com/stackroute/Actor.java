@@ -45,4 +45,3 @@ public class Actor {
         System.out.println("age :" + this.age );
     }
 }
-
